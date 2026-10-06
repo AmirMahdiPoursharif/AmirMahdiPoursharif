@@ -16,11 +16,12 @@ Currently building **Stackzy**, a website monitoring platform that tracks perfor
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=flat&logo=prometheus&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=flat&logo=rabbitmq&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![VictoriaMetrics](https://img.shields.io/badge/victoriametrics-%23621773.svg?style=flat&logo=victoriametrics&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/timescaledb-%23FDB515.svg?style=flat&logo=timescale&logoColor=black)
 
 ## GitHub Stats
 
