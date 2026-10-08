@@ -2,7 +2,7 @@
 
 Junior Backend Developer with strong hands-on experience, progressing toward Mid-level.
 
-Backend Developer & Computer Engineering student, focused on building reliable, data-intensive systems. I work mainly with Python/Django and Go, but I don't tie myself to one stack — I pick up new tools fast when a project needs them.
+Backend Developer & Computer Engineering student, focused on building reliable, data-intensive systems. I work mainly with Python/Django , but I don't tie myself to one stack — I pick up new tools fast when a project needs them.
 
 Currently building **Stackzy**, a website monitoring platform that tracks performance from multiple locations across Iran and alerts on issues in real time.
 
