@@ -6,7 +6,7 @@ Backend Developer & Computer Engineering student, focused on building reliable, 
 
 Currently building **Stackzy**, a website monitoring platform that tracks performance from multiple locations across Iran and alerts on issues in real time.
 
-- Working with Python, Django, Go, and SQL-based databases
+- Working with Python, Django, and SQL-based databases
 - Going deeper into database design, query optimization, and scalable data systems
 - Exploring Machine Learning and how it fits into data-driven backend systems
 - Always experimenting, always shipping
